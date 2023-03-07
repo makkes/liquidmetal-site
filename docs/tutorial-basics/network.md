@@ -127,7 +127,7 @@ Network liquid-metal started
 Verify that it was created and is up:
 
 ```bash
-virsh net-list
+sudo virsh net-list
 ```
 
 Output:
